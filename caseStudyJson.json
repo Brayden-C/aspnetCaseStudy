@@ -2,7 +2,7 @@
 	{
 		"ID":"11111",
 		"PRODNAME":"Oolong",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"oolongtea.jpg",
 		"COST":"9.00",
 		"MSRP":"11.99",
 		"ONHAND":"75",
@@ -13,7 +13,7 @@
 	{
 		"ID":"11112",
 		"PRODNAME":"Earl Grey",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"earlgrey.jpg",
 		"COST":"5.00",
 		"MSRP":"7.99",
 		"ONHAND":"34",
@@ -24,7 +24,7 @@
 	{
 		"ID":"11113",
 		"PRODNAME":"Peppermint",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"peppermint.jpg",
 		"COST":"8.00",
 		"MSRP":"10.99",
 		"ONHAND":"200",
@@ -35,7 +35,7 @@
 	{
 		"ID":"11114",
 		"PRODNAME":"Green",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"greentea.jpg",
 		"COST":"11.00",
 		"MSRP":"14.99",
 		"ONHAND":"75",
@@ -46,7 +46,7 @@
 	{
 		"ID":"11115",
 		"PRODNAME":"English Breakfast",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"englishbreakfast.jpg",
 		"COST":"9.00",
 		"MSRP":"11.99",
 		"ONHAND":"75",
@@ -58,7 +58,7 @@
 	{
 		"ID":"21111",
 		"PRODNAME":"Light Roast Beans",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"lightcoffee.jpg",
 		"COST":"12.00",
 		"MSRP":"15.99",
 		"ONHAND":"50",
@@ -69,7 +69,7 @@
 	{
 		"ID":"21112",
 		"PRODNAME":"Medium Roast Beans",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"mediumcoffee.jpg",
 		"COST":"12.00",
 		"MSRP":"15.99",
 		"ONHAND":"21",
@@ -80,7 +80,7 @@
 	{
 		"ID":"21113",
 		"PRODNAME":"Dark Roast Beans",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"darkcoffee.jpg",
 		"COST":"12.00",
 		"MSRP":"15.99",
 		"ONHAND":"67",
@@ -91,7 +91,7 @@
 	{
 		"ID":"21114",
 		"PRODNAME":"Medium Roast Ground",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"mediumground.jpg",
 		"COST":"12.00",
 		"MSRP":"15.99",
 		"ONHAND":"75",
@@ -102,7 +102,7 @@
 	{
 		"ID":"21115",
 		"PRODNAME":"Cold Brew",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"coldbrew.jpg",
 		"COST":"9.00",
 		"MSRP":"29.99",
 		"ONHAND":"9",
@@ -114,7 +114,7 @@
 	{
 		"ID":"31111",
 		"PRODNAME":"Hype Sauce",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"hypesauce.png",
 		"COST":"30.00",
 		"MSRP":"35.99",
 		"ONHAND":"75",
@@ -125,7 +125,7 @@
 	{
 		"ID":"31112",
 		"PRODNAME":"Snow Cone",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"snowcone.png",
 		"COST":"30.00",
 		"MSRP":"35.99",
 		"ONHAND":"34",
@@ -136,7 +136,7 @@
 	{
 		"ID":"31113",
 		"PRODNAME":"Battle Juice",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"battlejuice.png",
 		"COST":"30.00",
 		"MSRP":"35.99",
 		"ONHAND":"200",
@@ -147,7 +147,7 @@
 	{
 		"ID":"31114",
 		"PRODNAME":"Tropical Rain",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"troprain.png",
 		"COST":"30.00",
 		"MSRP":"35.99",
 		"ONHAND":"75",
@@ -158,7 +158,7 @@
 	{
 		"ID":"31115",
 		"PRODNAME":"Strawberry Banana",
-		"GRAPHNAME":"",
+		"GRAPHNAME":"strawberrybanana.png",
 		"COST":"30.00",
 		"MSRP":"35.99",
 		"ONHAND":"75",
