@@ -1,0 +1,169 @@
+[
+	{
+		"ID":"11111",
+		"PRODNAME":"Oolong",
+		"GRAPHNAME":"",
+		"COST":"9.00",
+		"MSRP":"11.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"200g of the finest loose leaf oolong tea grown in Taiwan.",
+		"BRAND":"John's Teas"
+	},
+	{
+		"ID":"11112",
+		"PRODNAME":"Earl Grey",
+		"GRAPHNAME":"",
+		"COST":"5.00",
+		"MSRP":"7.99",
+		"ONHAND":"34",
+		"ONBACK":"150",
+		"DESC":"200g of our house grown black tea flavoured with the rind of bergamot oranges grown in Calabria, Italy.",
+		"BRAND":"John's Teas"
+	},
+	{
+		"ID":"11113",
+		"PRODNAME":"Peppermint",
+		"GRAPHNAME":"",
+		"COST":"8.00",
+		"MSRP":"10.99",
+		"ONHAND":"200",
+		"ONBACK":"0",
+		"DESC":"200g of delicious loose leaf peppermint tea, grown in our own greenhouse.",
+		"BRAND":"John's Teas"
+	},
+	{
+		"ID":"11114",
+		"PRODNAME":"Green",
+		"GRAPHNAME":"",
+		"COST":"11.00",
+		"MSRP":"14.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"200g of the the best loose leaf green tea grown on the islands of Hawaii.",
+		"BRAND":"John's Teas"
+	},
+	{
+		"ID":"11115",
+		"PRODNAME":"English Breakfast",
+		"GRAPHNAME":"",
+		"COST":"9.00",
+		"MSRP":"11.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"200g of our house blend of black teas grown in Assam, Ceylon and Kenya.",
+		"BRAND":"John's Teas"
+	},
+	
+	{
+		"ID":"21111",
+		"PRODNAME":"Light Roast Beans",
+		"GRAPHNAME":"",
+		"COST":"12.00",
+		"MSRP":"15.99",
+		"ONHAND":"50",
+		"ONBACK":"100",
+		"DESC":"300g of coffee beans from Columbia, that we have roasted to a nice light roast, preserving all of the beans earthy flavour.",
+		"BRAND":"Dirty Bean Water"
+	},
+	{
+		"ID":"21112",
+		"PRODNAME":"Medium Roast Beans",
+		"GRAPHNAME":"",
+		"COST":"12.00",
+		"MSRP":"15.99",
+		"ONHAND":"21",
+		"ONBACK":"150",
+		"DESC":"300g of coffee beans from Columbia, that we have roasted to a nice medium roast, giving them a nutty and chocolaty flavour.",
+		"BRAND":"Dirty Bean Water"
+	},
+	{
+		"ID":"21113",
+		"PRODNAME":"Dark Roast Beans",
+		"GRAPHNAME":"",
+		"COST":"12.00",
+		"MSRP":"15.99",
+		"ONHAND":"67",
+		"ONBACK":"100",
+		"DESC":"300g of coffee beans from Columbia, that we have roasted to a deep dark roast, giving them an intense nutty and smoaky flavour.",
+		"BRAND":"Dirty Bean Water"
+	},
+	{
+		"ID":"21114",
+		"PRODNAME":"Medium Roast Ground",
+		"GRAPHNAME":"",
+		"COST":"12.00",
+		"MSRP":"15.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"300g of our Medium Roast Beans ground to the consistency that we believe yeild the best tasting cup of coffee.",
+		"BRAND":"Dirty Bean Water"
+	},
+	{
+		"ID":"21115",
+		"PRODNAME":"Cold Brew",
+		"GRAPHNAME":"",
+		"COST":"9.00",
+		"MSRP":"29.99",
+		"ONHAND":"9",
+		"ONBACK":"200",
+		"DESC":"6 354ml bottles of our Medium Roast Ground coffee, steeped for 16 hours and double filtered.",
+		"BRAND":"Dirty Bean Water"
+	},
+	
+	{
+		"ID":"31111",
+		"PRODNAME":"Oolong",
+		"GRAPHNAME":"",
+		"COST":"9.00",
+		"MSRP":"11.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"200g of the finest loose leaf oolong tea grown in Taiwan",
+		"BRAND":"Thirst Quenchers"
+	},
+	{
+		"ID":"31112",
+		"PRODNAME":"Earl Grey",
+		"GRAPHNAME":"",
+		"COST":"5.00",
+		"MSRP":"7.99",
+		"ONHAND":"34",
+		"ONBACK":"150",
+		"DESC":"200g of our house grown black tea flavoured with the rind of bergamot oranges grown in Calabria, Italy",
+		"BRAND":"Thirst Quenchers"
+	},
+	{
+		"ID":"31113",
+		"PRODNAME":"Peppermint",
+		"GRAPHNAME":"",
+		"COST":"8.00",
+		"MSRP":"10.99",
+		"ONHAND":"200",
+		"ONBACK":"0",
+		"DESC":"200g of delicious loose leaf peppermint tea, grown in our own greenhouse",
+		"BRAND":"Thirst Quenchers"
+	},
+	{
+		"ID":"31114",
+		"PRODNAME":"Green",
+		"GRAPHNAME":"",
+		"COST":"11.00",
+		"MSRP":"14.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"200g of the the best loose leaf green tea grown on the islands of Hawaii",
+		"BRAND":"Thirst Quenchers"
+	},
+	{
+		"ID":"31115",
+		"PRODNAME":"English Breakfast",
+		"GRAPHNAME":"",
+		"COST":"9.00",
+		"MSRP":"11.99",
+		"ONHAND":"75",
+		"ONBACK":"100",
+		"DESC":"200g of our house blend of black teas grown in Assam, Ceylon and Kenya",
+		"BRAND":"Thirst Quenchers"
+	},
+]
